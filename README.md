@@ -1,4 +1,4 @@
-# DataAnalysis_NLP
+# GitHub-Bug-Prediction-Challenge
 I'm creating this project to find Bugs,Attributes and Questions from analysing GitHub title and texts using
 -Natural Language Processing
 -Feature extraction from raw text using TF-IDF, CountVectorizer
